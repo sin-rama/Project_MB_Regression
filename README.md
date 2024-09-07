@@ -1,5 +1,7 @@
 # Project: Machine learning for glacier mass balance modelling
 
+***Student>*** <br />
+sin-rama
 **Authors:** <br />
 Jordi Bolibar <br />
 Facundo Sapienza
